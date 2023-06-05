@@ -1,8 +1,8 @@
 ## Hi, I'm Rafael, welcome to my github profile
 
 - 🔭 I’m currently working with Java for Web Development.
-- 🍃 I’m currently learning Spring framework.
-- ☕ I’m looking to collaborate on Java/JS/Spring projects.
+- 🍃 Using and studiyng Spring framework.
+- ☕ I’m looking to collaborate on Java/Jakarta EE/Spring projects.
 - 📫 How to reach me: rafaelpereira901@gmail.com
 
 ### Most Used technologies
