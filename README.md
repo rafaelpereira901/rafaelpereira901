@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Java for Web Development.
 - 🍃 Using and studying Spring framework.
-- ☕ I’m looking to collaborate on Java/Jakarta EE/Spring projects.
+- ☕ I’m looking to collaborate on Java/JavaEE/Spring projects.
 - 📫 How to reach me: rafaelpereira901@gmail.com
 
 ### Most Used technologies
